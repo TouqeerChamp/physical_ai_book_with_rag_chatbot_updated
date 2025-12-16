@@ -8,12 +8,12 @@ const config = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'Building Embodied Intelligence',
   url: 'https://physical-ai-book.com',
-  baseUrl: '/physical-ai-book/',
+  baseUrl: '/physical_ai_book_with_rag_chatbot_updated/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'TouqeerChamp',
-  projectName: 'physical_ai_book_with_rag_chatbot',
+  projectName: 'physical_ai_book_with_rag_chatbot_updated',
   deploymentBranch: 'gh-pages',
 
   markdown: {
