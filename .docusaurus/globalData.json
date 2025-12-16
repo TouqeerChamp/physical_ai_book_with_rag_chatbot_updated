@@ -1,0 +1,77 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-book/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-book/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "chapter-02-hardware",
+              "path": "/physical-ai-book/chapter-02-hardware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-03-ros2",
+              "path": "/physical-ai-book/chapter-03-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-04-vision",
+              "path": "/physical-ai-book/chapter-04-vision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-05-control",
+              "path": "/physical-ai-book/chapter-05-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-06-ai-integration",
+              "path": "/physical-ai-book/chapter-06-ai-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-07-navigation",
+              "path": "/physical-ai-book/chapter-07-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-08-ethics",
+              "path": "/physical-ai-book/chapter-08-ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conclusion",
+              "path": "/physical-ai-book/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/physical-ai-book/"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-book/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-book/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

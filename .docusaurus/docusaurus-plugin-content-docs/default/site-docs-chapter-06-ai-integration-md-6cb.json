@@ -1,0 +1,27 @@
+{
+  "id": "chapter-06-ai-integration",
+  "title": "Chapter 6: The AI Brain",
+  "description": "Core Concepts",
+  "source": "@site/docs/chapter-06-ai-integration.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-06-ai-integration",
+  "permalink": "/physical-ai-book/chapter-06-ai-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/chapter-06-ai-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 6: The AI Brain",
+    "sidebar_label": "6. The AI Brain"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5. Arm Control",
+    "permalink": "/physical-ai-book/chapter-05-control"
+  },
+  "next": {
+    "title": "7. Navigation (SLAM)",
+    "permalink": "/physical-ai-book/chapter-07-navigation"
+  }
+}

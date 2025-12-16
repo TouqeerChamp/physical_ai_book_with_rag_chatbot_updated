@@ -1,0 +1,98 @@
+{
+  "/physical-ai-book/__docusaurus/debug-12f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/config-4d3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/content-a5b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    },
+    "__props": "__props---physical-ai-book-docusaurus-debug-content-85-e-5b0"
+  },
+  "/physical-ai-book/__docusaurus/debug/globalData-abe": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/metadata-587": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/registry-2ef": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/__docusaurus/debug/routes-1a5": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-docusaurus-debugb-38-fb9"
+    }
+  },
+  "/physical-ai-book/-4f9": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-book-aba-a75"
+    }
+  },
+  "/physical-ai-book/-d96": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-book-30-b-196"
+  },
+  "/physical-ai-book/-ce3": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-book/chapter-02-hardware-281": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-chapter-02-hardwareebe-f6b"
+  },
+  "/physical-ai-book/chapter-03-ros2-6bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-chapter-03-ros-25-a-4-26f"
+  },
+  "/physical-ai-book/chapter-04-vision-8d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-chapter-04-vision-05-b-2e9"
+  },
+  "/physical-ai-book/chapter-05-control-12d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-chapter-05-controlac-7-273"
+  },
+  "/physical-ai-book/chapter-06-ai-integration-c4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-chapter-06-ai-integration-6-cb-d2d"
+  },
+  "/physical-ai-book/chapter-07-navigation-c0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-chapter-07-navigationcc-9-0af"
+  },
+  "/physical-ai-book/chapter-08-ethics-000": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-chapter-08-ethicsd-84-695"
+  },
+  "/physical-ai-book/conclusion-779": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-conclusion-85-b-6c1"
+  },
+  "/physical-ai-book/intro-4fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-intro-0-e-3-6b7"
+  },
+  "/physical-ai-book/-5eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-book-c-37-2cf"
+  }
+}

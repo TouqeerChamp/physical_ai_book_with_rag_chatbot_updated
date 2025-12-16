@@ -1,0 +1,27 @@
+{
+  "id": "chapter-08-ethics",
+  "title": "Chapter 8: Ethics & Safety",
+  "description": "Details about Robot Ethics and Safety.",
+  "source": "@site/docs/chapter-08-ethics.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-08-ethics",
+  "permalink": "/physical-ai-book/chapter-08-ethics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/chapter-08-ethics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 8: Ethics & Safety",
+    "sidebar_label": "8. Ethics & Safety"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "7. Navigation (SLAM)",
+    "permalink": "/physical-ai-book/chapter-07-navigation"
+  },
+  "next": {
+    "title": "7. Conclusion",
+    "permalink": "/physical-ai-book/conclusion"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-03-ros2",
+  "title": "Chapter 3: ROS 2 Basics",
+  "description": "Core Concepts",
+  "source": "@site/docs/chapter-03-ros2.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-03-ros2",
+  "permalink": "/physical-ai-book/chapter-03-ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/chapter-03-ros2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 3: ROS 2 Basics",
+    "sidebar_label": "3. ROS 2 Basics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Lab Setup",
+    "permalink": "/physical-ai-book/chapter-02-hardware"
+  },
+  "next": {
+    "title": "4. Computer Vision",
+    "permalink": "/physical-ai-book/chapter-04-vision"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-05-control",
+  "title": "Chapter 5: Arm Control & Motion Planning",
+  "description": "Core Concepts",
+  "source": "@site/docs/chapter-05-control.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-05-control",
+  "permalink": "/physical-ai-book/chapter-05-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/chapter-05-control.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 5: Arm Control & Motion Planning",
+    "sidebar_label": "5. Arm Control"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4. Computer Vision",
+    "permalink": "/physical-ai-book/chapter-04-vision"
+  },
+  "next": {
+    "title": "6. The AI Brain",
+    "permalink": "/physical-ai-book/chapter-06-ai-integration"
+  }
+}

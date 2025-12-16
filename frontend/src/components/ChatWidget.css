@@ -1,0 +1,114 @@
+/* Target the main chat widget container */
+.chat-container-div {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Target the header/title bar (where "AI Assistant" is) */
+.chat-header {
+    background-color: #A7FFEB !important; /* Light Green */
+    color: #000000 !important; /* Black text for contrast */
+    padding: 15px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Target the bot's response text to be Black */
+.bot-response-text {
+    color: #000000 !important; /* Black */
+    background-color: #F0F0F0 !important; /* Very light gray background */
+}
+
+/* Target the input button (assuming a class like send-button) */
+.send-button {
+    background-color: #4CAF50 !important; /* Green button */
+    color: white !important;
+    border: none !important;
+}
+
+/* Existing styles for the chat widget */
+.chat-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.chat-toggle-button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: none;
+  background-color: #00e676;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.chat-window {
+  width: 350px;
+  height: 500px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ifm-background-color);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.message {
+  margin-bottom: 10px;
+  padding: 8px 12px;
+  border-radius: 18px;
+  max-width: 80%;
+  word-wrap: break-word;
+  color: #000000 !important; /* Black text for all messages */
+}
+
+.message.user {
+  background-color: #4CAF50 !important; /* Green background for user messages */
+  color: white !important;
+  margin-left: auto;
+  text-align: right;
+}
+
+.message.bot {
+  background-color: #F0F0F0 !important; /* Light gray background for bot messages */
+  color: #000000 !important; /* Black text for bot messages */
+  margin-right: auto;
+}
+
+.chat-input-area {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+  background-color: #0f111a;
+}
+
+.chat-input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 20px;
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+  outline: none;
+}
+
+.send-button {
+  margin-left: 10px;
+  padding: 10px 15px;
+  background-color: #4CAF50 !important; /* Green button */
+  color: white !important;
+  border: none !important;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.send-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

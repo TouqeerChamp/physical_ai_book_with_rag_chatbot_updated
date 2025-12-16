@@ -1,0 +1,27 @@
+{
+  "id": "chapter-07-navigation",
+  "title": "Chapter 7: Autonomous Navigation",
+  "description": "Details about SLAM and Nav2.",
+  "source": "@site/docs/chapter-07-navigation.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-07-navigation",
+  "permalink": "/physical-ai-book/chapter-07-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/chapter-07-navigation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 7: Autonomous Navigation",
+    "sidebar_label": "7. Navigation (SLAM)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "6. The AI Brain",
+    "permalink": "/physical-ai-book/chapter-06-ai-integration"
+  },
+  "next": {
+    "title": "8. Ethics & Safety",
+    "permalink": "/physical-ai-book/chapter-08-ethics"
+  }
+}

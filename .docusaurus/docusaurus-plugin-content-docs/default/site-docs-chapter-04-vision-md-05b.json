@@ -1,0 +1,27 @@
+{
+  "id": "chapter-04-vision",
+  "title": "Chapter 4: Computer Vision",
+  "description": "Core Concepts",
+  "source": "@site/docs/chapter-04-vision.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-04-vision",
+  "permalink": "/physical-ai-book/chapter-04-vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/chapter-04-vision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 4: Computer Vision",
+    "sidebar_label": "4. Computer Vision"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3. ROS 2 Basics",
+    "permalink": "/physical-ai-book/chapter-03-ros2"
+  },
+  "next": {
+    "title": "5. Arm Control",
+    "permalink": "/physical-ai-book/chapter-05-control"
+  }
+}

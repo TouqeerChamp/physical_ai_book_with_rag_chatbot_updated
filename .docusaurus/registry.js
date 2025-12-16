@@ -1,0 +1,17 @@
+export default {
+  "05bc93e4": [() => import(/* webpackChunkName: "05bc93e4" */ "@site/docs/chapter-04-vision.md"), "@site/docs/chapter-04-vision.md", require.resolveWeak("@site/docs/chapter-04-vision.md")],
+  "0e384e19": [() => import(/* webpackChunkName: "0e384e19" */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
+  "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  "30b20a37": [() => import(/* webpackChunkName: "30b20a37" */ "@generated/docusaurus-plugin-content-docs/default/p/physical-ai-book-149.json"), "@generated/docusaurus-plugin-content-docs/default/p/physical-ai-book-149.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/physical-ai-book-149.json")],
+  "5a41af3f": [() => import(/* webpackChunkName: "5a41af3f" */ "@site/docs/chapter-03-ros2.md"), "@site/docs/chapter-03-ros2.md", require.resolveWeak("@site/docs/chapter-03-ros2.md")],
+  "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
+  "6cb27e72": [() => import(/* webpackChunkName: "6cb27e72" */ "@site/docs/chapter-06-ai-integration.md"), "@site/docs/chapter-06-ai-integration.md", require.resolveWeak("@site/docs/chapter-06-ai-integration.md")],
+  "85be18e3": [() => import(/* webpackChunkName: "85be18e3" */ "@site/docs/conclusion.md"), "@site/docs/conclusion.md", require.resolveWeak("@site/docs/conclusion.md")],
+  "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
+  "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
+  "aba21aa0": [() => import(/* webpackChunkName: "aba21aa0" */ "@generated/docusaurus-plugin-content-docs/default/__plugin.json"), "@generated/docusaurus-plugin-content-docs/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/__plugin.json")],
+  "ac719ea1": [() => import(/* webpackChunkName: "ac719ea1" */ "@site/docs/chapter-05-control.md"), "@site/docs/chapter-05-control.md", require.resolveWeak("@site/docs/chapter-05-control.md")],
+  "c377a04b": [() => import(/* webpackChunkName: "c377a04b" */ "@site/docs/index.md"), "@site/docs/index.md", require.resolveWeak("@site/docs/index.md")],
+  "cc94f350": [() => import(/* webpackChunkName: "cc94f350" */ "@site/docs/chapter-07-navigation.md"), "@site/docs/chapter-07-navigation.md", require.resolveWeak("@site/docs/chapter-07-navigation.md")],
+  "d849cc5e": [() => import(/* webpackChunkName: "d849cc5e" */ "@site/docs/chapter-08-ethics.md"), "@site/docs/chapter-08-ethics.md", require.resolveWeak("@site/docs/chapter-08-ethics.md")],
+  "ebeed5b8": [() => import(/* webpackChunkName: "ebeed5b8" */ "@site/docs/chapter-02-hardware.md"), "@site/docs/chapter-02-hardware.md", require.resolveWeak("@site/docs/chapter-02-hardware.md")],};

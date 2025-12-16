@@ -1,0 +1,24 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to the Physical AI & Humanoid Robotics Textbook. This course covers ROS 2, Vision, and AI.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/physical-ai-book/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction",
+    "sidebar_label": "Introduction",
+    "id": "intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Hardware Lab Setup",
+    "permalink": "/physical-ai-book/chapter-02-hardware"
+  }
+}

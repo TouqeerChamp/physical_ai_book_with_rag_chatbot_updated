@@ -1,0 +1,15 @@
+{
+  "id": "index",
+  "title": "Physical AI & Humanoid Robotics",
+  "description": "Master ROS 2, Computer Vision, and VLA Models for Humanoid Robots",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/physical-ai-book/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

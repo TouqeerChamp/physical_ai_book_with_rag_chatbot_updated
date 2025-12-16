@@ -1,0 +1,55 @@
+{
+  "/physical-ai-book/-4f9": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/physical-ai-book/-d96": {
+    "__comp": "a7bd4aaa",
+    "__props": "30b20a37"
+  },
+  "/physical-ai-book/-ce3": {
+    "__comp": "a94703ab"
+  },
+  "/physical-ai-book/chapter-02-hardware-281": {
+    "__comp": "17896441",
+    "content": "ebeed5b8"
+  },
+  "/physical-ai-book/chapter-03-ros2-6bc": {
+    "__comp": "17896441",
+    "content": "5a41af3f"
+  },
+  "/physical-ai-book/chapter-04-vision-8d6": {
+    "__comp": "17896441",
+    "content": "05bc93e4"
+  },
+  "/physical-ai-book/chapter-05-control-12d": {
+    "__comp": "17896441",
+    "content": "ac719ea1"
+  },
+  "/physical-ai-book/chapter-06-ai-integration-c4c": {
+    "__comp": "17896441",
+    "content": "6cb27e72"
+  },
+  "/physical-ai-book/chapter-07-navigation-c0a": {
+    "__comp": "17896441",
+    "content": "cc94f350"
+  },
+  "/physical-ai-book/chapter-08-ethics-000": {
+    "__comp": "17896441",
+    "content": "d849cc5e"
+  },
+  "/physical-ai-book/conclusion-779": {
+    "__comp": "17896441",
+    "content": "85be18e3"
+  },
+  "/physical-ai-book/intro-4fd": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/physical-ai-book/-5eb": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  }
+}

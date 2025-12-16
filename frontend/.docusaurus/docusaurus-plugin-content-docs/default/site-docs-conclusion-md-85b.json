@@ -1,0 +1,23 @@
+{
+  "id": "conclusion",
+  "title": "Conclusion & Future",
+  "description": "Summary",
+  "source": "@site/docs/conclusion.md",
+  "sourceDirName": ".",
+  "slug": "/conclusion",
+  "permalink": "/physical-ai-book/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/conclusion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Conclusion & Future",
+    "sidebar_label": "7. Conclusion"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "8. Ethics & Safety",
+    "permalink": "/physical-ai-book/chapter-08-ethics"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-02-hardware",
+  "title": "Chapter 2 - Hardware Lab Setup",
+  "description": "Learning Objectives",
+  "source": "@site/docs/chapter-02-hardware.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-02-hardware",
+  "permalink": "/physical-ai-book/chapter-02-hardware",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TouqeerChamp/docs/chapter-02-hardware.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chapter 2 - Hardware Lab Setup",
+    "sidebar_label": "Hardware Lab Setup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/physical-ai-book/intro"
+  },
+  "next": {
+    "title": "3. ROS 2 Basics",
+    "permalink": "/physical-ai-book/chapter-03-ros2"
+  }
+}
